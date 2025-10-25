@@ -1,4 +1,4 @@
-Key_File:mlLearningAgents
+Under the folder PacMan_cw2 keyfile: mlLearningAgents
 
 This project implements a Pac-Man to behave optimally using Q-learning. 
 The goal is to train the agent to to maximize cumulative rewards through reinforcement learning techniques.
